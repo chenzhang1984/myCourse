@@ -1,27 +1,21 @@
 ﻿using System;
-
 /// <summary>
 /// Summary description for Class1
 /// </summary>
-public class Solution
+namespace myCourse
 {
-    public void Merge(int[] nums1, int m, int[] nums2, int n)
+    public class Solution
     {
-        int[] nums1_copy = Array.Copy(nums1);
-
-        int i, j = 0;
-
-        do
+        public void Merge(int[] nums1, int m, int[] nums2, int n)
         {
-            if (nums1_copy[i] > nums2[j])//
-            {
+            int len = m + n - 1, len1 = m - 1, len2 = n - 1;
 
+            while (len1 >= 0 && len2 >= 0)
+            {
+                nums1[len--] = nums1[len1] > nums2[len2] ? nums1[len1--] : nums2[len2--];
             }
-            else
-            { 
-                
-            }
+
+            Array.Copy(nums2, nums1, len2 + 1);
         }
-        while (i + j > m + n - 1);
     }
 }
