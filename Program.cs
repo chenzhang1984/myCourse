@@ -9,5 +9,7 @@ namespace myCourse
             Solution_Day4 s = new Solution_Day4();
             int res = s.ClimbStairs(2);
         }
+
+
     }
 }
