@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\Project\\Algorithm\\myCourse\\myCourse.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\chenzhang1984\\myCourse\\myCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\Project\\Algorithm\\myCourse\\myCourse.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\chenzhang1984\\myCourse\\myCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Project\\Algorithm\\myCourse\\myCourse.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\chenzhang1984\\myCourse\\myCourse.csproj",
         "projectName": "myCourse",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\Project\\Algorithm\\myCourse\\myCourse.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\chenzhang1984\\myCourse\\myCourse.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\Project\\Algorithm\\myCourse\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\chenzhang1984\\myCourse\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
