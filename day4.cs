@@ -34,8 +34,12 @@ namespace myCourse
             }
         }
 
-        /// <summary>
-        /// 
+        /// <summary>       
+        /// 题目：1.两数之和
+        ///算法1:暴力算法，嵌套循环遍历数组，时间复杂度O（n^2）
+        ///算法2：哈希表法，遍历数组，将数组的值保存在哈希表的key中，判断表中是否有key与当前值相加等于target
+        ///没有就存入哈希表中，key为nums[i]，value为index,当遇到target-nums[i] 存在于表中，返回当前i与表中的value即可
+        ///
         /// </summary>
         /// <param name="nums"></param>
         /// <param name="target"></param>
