@@ -7,9 +7,13 @@ namespace myCourse
 {
     class Solution_Day4
     {
-        /// <summary>
-        /// 283.移动0 双指针法
-        /// </summary>
+        /*
+        本来第一次提交已经对了，但是因为写了2个循环，所以想优化一下算法，看是否可以
+        把第二个循环去掉，结果弄巧成拙，没有处理好index_num指针在输入数组为[1,1,1]
+        这种情况，待会继续优化
+        这种方法应该算比较好的，时间复杂度为O(n)，平均遍历1.5次数组解决问题，应该还可以
+        进一步优化为只需要遍历一次数组的方法，但是会要每次多if判断，因此效率应该相近
+        */
         /// <param name="nums"></param>
         public void MoveZeroes(int[] nums)
         {
