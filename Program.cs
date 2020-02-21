@@ -6,9 +6,8 @@ namespace myCourse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-
+            Solution_Day4 s = new Solution_Day4();
+            int res = s.ClimbStairs(2);
         }
     }
 }

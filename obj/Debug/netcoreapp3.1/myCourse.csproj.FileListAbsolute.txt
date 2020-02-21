@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\bin\Debug\netcoreapp3.1\myCourse.exe
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\bin\Debug\netcoreapp3.1\myCourse.deps.json
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\bin\Debug\netcoreapp3.1\myCourse.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\bin\Debug\netcoreapp3.1\myCourse.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\bin\Debug\netcoreapp3.1\myCourse.dll
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\bin\Debug\netcoreapp3.1\myCourse.pdb
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\obj\Debug\netcoreapp3.1\myCourse.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\obj\Debug\netcoreapp3.1\myCourse.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\obj\Debug\netcoreapp3.1\myCourse.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\obj\Debug\netcoreapp3.1\myCourse.dll
+C:\Users\Administrator\Source\Repos\chenzhang1984\myCourse\obj\Debug\netcoreapp3.1\myCourse.pdb
